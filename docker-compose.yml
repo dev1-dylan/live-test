@@ -1,0 +1,58 @@
+services:
+  # --- Redis for Ingress queue ---
+  redis:
+    image: redis:7-alpine
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    networks: [livekit-net]
+
+  # --- Core LiveKit server ---
+  livekit-server:
+    image: livekit/livekit-server:latest
+    container_name: livekit-server
+    restart: always
+    volumes:
+      - ./livekit/livekit.yaml:/config/livekit.yaml
+    command: ["--config", "/config/livekit.yaml"]
+    environment:
+      LIVEKIT_KEYS: "key1: supersecretkeythatlongenough1234567890"
+    ports:
+      - "7880:7880/tcp" # HTTP / WS / API
+      - "7882:7882/udp" # WebRTC UDP
+      - "1935:1935/tcp" # RTMP
+    networks: [livekit-net]
+
+  # --- Ingress (WHIP only) ---
+  livekit-ingress:
+    image: livekit/ingress:latest
+    container_name: livekit-ingress
+    restart: always
+    volumes:
+      - ./ingress/ingress.yaml:/config/ingress.yaml
+    environment:
+      INGRESS_CONFIG_FILE: "/config/ingress.yaml"
+    depends_on:
+      - redis
+      - livekit-server
+    ports:
+      - "8080:8080" # WHIP endpoint
+    networks: [livekit-net]
+
+  # --- Backend Node API ---
+  backend:
+    build: ./backend
+    container_name: backend-server
+    restart: always
+    depends_on:
+      - livekit-server
+      - livekit-ingress
+    env_file: .env
+    ports:
+      - "3000:3000"
+    networks: [livekit-net]
+
+networks:
+  livekit-net:
+    driver: bridge

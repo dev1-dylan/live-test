@@ -1,0 +1,42 @@
+port: 7880
+
+redis:
+  address: redis:6379
+
+# rtc:
+#   port_range_start: 5000
+#   port_range_end: 5010
+#   tcp_port: 7881
+#   use_external_ip: false
+#   enable_loopback_candidate: false
+
+rtc:
+  # phạm vi cổng UDP cho WebRTC — mở cho inbound nếu host là public
+  port_range_start: 50000
+  port_range_end: 60000
+
+  # Cổng TCP dùng khi UDP không khả dụng
+  tcp_port: 7881
+
+  # Nếu container hoặc host có IP public, bật tìm external IP
+  use_external_ip: false
+  # node_ip: 172.20.131.38
+  enable_loopback_candidate: true
+
+
+logging:
+  level: info
+
+# room:
+#   max_participants: 10
+#   enabled_codecs:
+#     - mime: audio/opus
+#     - mime: video/vp8
+#   enable_remote_unmute: true
+
+turn:
+  enabled: false
+
+ingress:
+  rtmp_base_url: rtmp://0.0.0.0:1935/live
+  whip_base_url: http://172.20.131.38:8080/w
