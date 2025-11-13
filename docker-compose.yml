@@ -7,51 +7,51 @@ services:
     ports:
       - "6379:6379"
     networks: [livekit-net]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
 
-  # --- Core LiveKit server ---
   livekit-server:
     image: livekit/livekit-server:latest
     container_name: livekit-server
     restart: always
+
+    # 👇 CHỈ CẦN DÒNG NÀY (Linux ONLY)
+    network_mode: host
+
     volumes:
       - ./livekit/livekit.yaml:/config/livekit.yaml
     command: ["--config", "/config/livekit.yaml"]
     environment:
       LIVEKIT_KEYS: "key1: supersecretkeythatlongenough1234567890"
-    ports:
-      - "7880:7880/tcp" # HTTP / WS / API
-      - "7882:7882/udp" # WebRTC UDP
-      - "1935:1935/tcp" # RTMP
-    networks: [livekit-net]
 
-  # --- Ingress (WHIP only) ---
+    depends_on:
+      redis:
+        condition: service_healthy
+
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:7880"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
   livekit-ingress:
+    network_mode: host
     image: livekit/ingress:latest
-    container_name: livekit-ingress
     restart: always
     volumes:
       - ./ingress/ingress.yaml:/config/ingress.yaml
     environment:
       INGRESS_CONFIG_FILE: "/config/ingress.yaml"
-    depends_on:
-      - redis
-      - livekit-server
-    ports:
-      - "8080:8080" # WHIP endpoint
-    networks: [livekit-net]
 
-  # --- Backend Node API ---
   backend:
+    network_mode: host
     build: ./backend
     container_name: backend-server
     restart: always
-    depends_on:
-      - livekit-server
-      - livekit-ingress
     env_file: .env
-    ports:
-      - "3000:3000"
-    networks: [livekit-net]
 
 networks:
   livekit-net:

@@ -1,9 +1,10 @@
 api_key: key1
 api_secret: supersecretkeythatlongenough1234567890
-ws_url: ws://172.17.0.1:7880
+
+ws_url: "ws://localhost:7880"
 
 redis:
-  address: 172.17.0.1:6379
+  address: localhost:6379
 
 rtmp_port: 1935
 whip_port: 8080
@@ -13,14 +14,10 @@ logging:
   json: false
   level: debug
 
-development: true
+# development: true
+
 rtc_config:
-    udp_port: 7885
-    use_external_ip: false
-    enable_loopback_candidate: false
-    # node_ip: 172.20.131.38
-
-
-# cpu_cost:
-#   rtmp_cpu_cost: 2.0
-#   whip_cpu_cost: 2.0
+  # udp_port: 7882
+  
+  use_external_ip: false
+  enable_loopback_candidate: true
