@@ -3,8 +3,13 @@ port: 7880
 redis:
   address: localhost:6379
 
+keys:
+  key1: supersecretkeythatlongenough1234567890
+
 rtc:
-  use_external_ip: true
+  use_external_ip: false
+  node_ip: 10.255.255.254
+  # node_ip: 14.241.131.153 #ip public 
   enable_loopback_candidate: true
   tcp_port: 7881
   udp_port: 7882
@@ -16,5 +21,13 @@ turn:
   enabled: false
 
 ingress:
-  rtmp_base_url: rtmp://127.0.0.1:1935/live
-  whip_base_url: http://127.20.131.38:8080/w
+  rtmp_base_url: rtmp://localhost:1935/live
+  whip_base_url: http://localhost:8080/w
+
+webhook:
+  # the API key to use in order to sign the message
+  # this must match one of the keys LiveKit is configured with
+  api_key: key1
+  # list of URLs to be notified of room events
+  urls:
+    - http://localhost:3000/api/livekit/webhook

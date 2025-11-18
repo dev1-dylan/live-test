@@ -1,0 +1,47 @@
+{
+  "name": "rtmp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "NODE_ENV=development nodemon src/index.ts",
+    "dev:local": "NODE_ENV=development STORAGE_TYPE=local nodemon src/index.ts",
+    "dev:s3": "NODE_ENV=development STORAGE_TYPE=s3 nodemon src/index.ts",
+    "build": "tsc",
+    "start": "NODE_ENV=production node dist/index.js",
+    "start:local": "NODE_ENV=production STORAGE_TYPE=local node dist/index.js",
+    "start:s3": "NODE_ENV=production STORAGE_TYPE=s3 node dist/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:ci": "jest --ci --coverage --watchAll=false",
+    "lint": "eslint src/**/*.ts",
+    "clean": "rimraf dist",
+    "logs": "tail -f logs/combined.log",
+    "setup": "npm install && npm run build"
+  },
+  "dependencies": {
+    "aws-sdk": "2.1490.0",
+    "axios": "1.12.2",
+    "dotenv": "16.4.5",
+    "fastify": "5.4.0",
+    "fs-extra": "11.1.1",
+    "node-media-server": "2.6.6",
+    "winston": "3.11.0"
+  },
+  "devDependencies": {
+    "@jest/globals": "29.7.0",
+    "@tsconfig/node22": "22.0.2",
+    "@types/dotenv": "8.2.0",
+    "@types/jest": "29.5.14",
+    "@types/node": "24.0.3",
+    "eslint": "8.52.0",
+    "jest": "30.0.5",
+    "jest-sonar-reporter": "2.0.0",
+    "nodemon": "3.1.7",
+    "rimraf": "5.0.5",
+    "ts-jest": "29.4.0",
+    "ts-node": "10.9.2",
+    "typescript": "5.9.2"
+  }
+}

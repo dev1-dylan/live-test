@@ -14,7 +14,7 @@ logging:
   json: false
   level: debug
 
-# development: true
+development: true
 
 rtc_config:
   # udp_port: 7882

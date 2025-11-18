@@ -6,53 +6,51 @@ services:
     restart: always
     ports:
       - "6379:6379"
-    networks: [livekit-net]
     healthcheck:
       test: ["CMD", "redis-cli", "ping"]
       interval: 5s
       timeout: 3s
       retries: 5
 
-  livekit-server:
-    image: livekit/livekit-server:latest
-    container_name: livekit-server
-    restart: always
-
-    # 👇 CHỈ CẦN DÒNG NÀY (Linux ONLY)
-    network_mode: host
-
+  # caddy:
+  #   image: livekit/caddyl4
+  #   command: run --config /etc/caddy.yaml --adapter yaml
+  #   restart: unless-stopped
+  #   network_mode: "host"
+  #   volumes:
+  #     - ./caddy/caddy.yaml:/etc/caddy.yaml
+  #     - ./caddy_data:/data
+  livekit:
+    image: livekit/livekit-server:v1.9.3
+    command: --config /etc/livekit.yaml
+    restart: unless-stopped
+    network_mode: "host"
     volumes:
-      - ./livekit/livekit.yaml:/config/livekit.yaml
-    command: ["--config", "/config/livekit.yaml"]
-    environment:
-      LIVEKIT_KEYS: "key1: supersecretkeythatlongenough1234567890"
-
-    depends_on:
-      redis:
-        condition: service_healthy
-
-    healthcheck:
-      test: ["CMD", "wget", "--spider", "-q", "http://localhost:7880"]
-      interval: 10s
-      timeout: 5s
-      retries: 3
-
-  livekit-ingress:
-    network_mode: host
+      - ./livekit/livekit.yaml:/etc/livekit.yaml
+  ingress:
     image: livekit/ingress:latest
-    restart: always
-    volumes:
-      - ./ingress/ingress.yaml:/config/ingress.yaml
+    restart: unless-stopped
     environment:
-      INGRESS_CONFIG_FILE: "/config/ingress.yaml"
+      - INGRESS_CONFIG_FILE=/etc/ingress.yaml
+    network_mode: "host"
+    volumes:
+      - ./ingress/ingress.yaml:/etc/ingress.yaml
 
-  backend:
-    network_mode: host
-    build: ./backend
-    container_name: backend-server
-    restart: always
-    env_file: .env
+  egress:
+    image: livekit/egress:latest
+    restart: unless-stopped
+    environment:
+      - EGRESS_CONFIG_FILE=/etc/egress.yaml
+    network_mode: "host"
+    volumes:
+      - ./egress/egress.yaml:/etc/egress.yaml
+      - /home/dylan/workspace/github.com/dylan/livekit-local/recordings:/out
+    cap_add:
+      - CAP_SYS_ADMIN
 
-networks:
-  livekit-net:
-    driver: bridge
+  # backend:
+  #   network_mode: host
+  #   build: ./backend
+  #   container_name: backend-server
+  #   restart: always
+  #   env_file: ./backend/.env

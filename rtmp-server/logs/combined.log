@@ -1,0 +1,14 @@
+{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T04:53:58.942Z"}
+{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1935","storageType":"local","timestamp":"2025-11-18T04:53:59.015Z"}
+{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T04:53:59.021Z"}
+{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T04:53:59.022Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-18T04:54:04.955Z"}
+{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T04:55:32.656Z"}
+{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T04:55:32.701Z"}
+{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T04:55:32.706Z"}
+{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T04:55:32.707Z"}
+{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:02:37.174Z"}
+{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:27:37.900Z"}
+{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:28:06.607Z"}
+{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:30:39.018Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-18T07:22:11.769Z"}
