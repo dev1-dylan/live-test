@@ -1,63 +1,3 @@
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T04:53:58.942Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1935","storageType":"local","timestamp":"2025-11-18T04:53:59.015Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T04:53:59.021Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T04:53:59.022Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-18T04:54:04.955Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T04:55:32.656Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T04:55:32.701Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T04:55:32.706Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T04:55:32.707Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:02:37.174Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:27:37.900Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:28:06.607Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T05:30:39.018Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-18T07:22:11.769Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T08:40:25.448Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T08:40:25.532Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T08:40:25.540Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T08:40:25.540Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-18T08:42:50.796Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T08:43:21.564Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T08:43:21.612Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T08:43:21.618Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T08:43:21.619Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T08:43:59.290Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T09:22:50.329Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T09:24:30.338Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T09:29:00.488Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T09:29:00.776Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T09:29:00.798Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T09:29:00.799Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T09:29:00.842Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T09:33:44.826Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T09:33:44.893Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T09:33:44.922Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T09:33:44.923Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-18T09:35:14.435Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T09:35:23.711Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T09:35:24.174Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T09:35:24.181Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T09:35:24.182Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T09:35:41.419Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-18T09:43:43.208Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-18T09:44:14.477Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-18T09:44:14.526Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-18T09:44:14.537Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-18T09:44:14.537Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T09:44:28.509Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-18T09:58:53.744Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-19T01:38:58.076Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-19T01:38:58.276Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-19T01:55:01.284Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-19T01:55:01.345Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-19T01:55:01.349Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-19T01:55:01.350Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-19T01:55:19.862Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-19T02:05:43.097Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-19T02:05:43.140Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-19T02:05:43.152Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-19T02:05:43.152Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-19T02:05:43.980Z"}
 2025-11-19T09:13:30: 2025-11-19T02:13:30.382Z [[32minfo[39m]: Using Local Storage 
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20108 [INFO] Node Media Server v2.6.6
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20108 [ERROR] Node Media Trans Server startup failed. ffmpeg:/usr/local/bin/ffmpeg cannot be executed.
@@ -78,11 +18,6 @@
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20108 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20108 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20107 [ERROR] Node Media Trans Server startup failed. ffmpeg:/usr/local/bin/ffmpeg cannot be executed.
-2025-11-19T09:13:30: (node:20108) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:30: 
-2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:30: 2025-11-19T02:13:30.424Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:30: 2025-11-19T02:13:30.424Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:30: 2025-11-19T02:13:30.447Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -99,11 +34,6 @@
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20107 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20107 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20107 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:30: (node:20107) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:30: 
-2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:30: 2025-11-19T02:13:30.452Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:30: 2025-11-19T02:13:30.452Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:30: 2025-11-19T02:13:30.479Z [[32minfo[39m]: Using Local Storage 
@@ -123,11 +53,6 @@
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20129 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20129 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20129 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:30: (node:20129) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:30: 
-2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:30: 2025-11-19T02:13:30.515Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:30: 2025-11-19T02:13:30.515Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:30: 2025-11-19T02:13:30.518Z [[32minfo[39m]: Using Local Storage 
@@ -147,11 +72,6 @@
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20135 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20135 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:30: 11/19/2025 09:13:30 20135 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:30: (node:20135) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:30: 
-2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:30: 2025-11-19T02:13:30.554Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:30: 2025-11-19T02:13:30.554Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:37: 11/19/2025 09:13:37 20135 [INFO] There is a new version 4.1.0 that can be updated
@@ -178,11 +98,6 @@
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20249 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20249 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20249 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:39: (node:20249) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:39: 
-2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:39: 2025-11-19T02:13:39.516Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:39: 2025-11-19T02:13:39.517Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:39: 2025-11-19T02:13:39.523Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -199,11 +114,6 @@
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20243 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20243 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20243 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:39: (node:20243) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:39: 
-2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:39: 2025-11-19T02:13:39.542Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:39: 2025-11-19T02:13:39.543Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:39: 2025-11-19T02:13:39.564Z [[32minfo[39m]: Using Local Storage 
@@ -226,11 +136,6 @@
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20265 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20265 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20265 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:39: (node:20265) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:39: 
-2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:39: 2025-11-19T02:13:39.606Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:39: 2025-11-19T02:13:39.606Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:39: 2025-11-19T02:13:39.608Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -247,11 +152,6 @@
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20272 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20272 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:39: 11/19/2025 09:13:39 20272 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:39: (node:20272) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:39: 
-2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:39: 2025-11-19T02:13:39.613Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:39: 2025-11-19T02:13:39.613Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:40: 11/19/2025 09:13:40 20243 [INFO] There is a new version 4.1.0 that can be updated
@@ -278,11 +178,6 @@
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20314 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20314 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20314 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:42: (node:20314) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:42: 
-2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:42: 2025-11-19T02:13:42.548Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:42: 2025-11-19T02:13:42.549Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:42: 2025-11-19T02:13:42.558Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -299,11 +194,6 @@
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20313 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20313 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20313 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:42: (node:20313) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:42: 
-2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:42: 2025-11-19T02:13:42.565Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:42: 2025-11-19T02:13:42.565Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:42: 2025-11-19T02:13:42.652Z [[32minfo[39m]: Using Local Storage 
@@ -326,11 +216,6 @@
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20342 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20342 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20342 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:42: (node:20342) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:42: 
-2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:42: 2025-11-19T02:13:42.692Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:42: 2025-11-19T02:13:42.693Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:42: 2025-11-19T02:13:42.699Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -347,11 +232,6 @@
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20335 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20335 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:42: 11/19/2025 09:13:42 20335 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:42: (node:20335) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:42: 
-2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:42: 2025-11-19T02:13:42.702Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:42: 2025-11-19T02:13:42.702Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:43: 11/19/2025 09:13:43 20313 [INFO] There is a new version 4.1.0 that can be updated
@@ -376,11 +256,6 @@
 2025-11-19T09:13:46: 11/19/2025 09:13:46 20364 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:46: 11/19/2025 09:13:46 20364 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:46: 11/19/2025 09:13:46 20364 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:46: (node:20364) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:46: 
-2025-11-19T09:13:46: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:46: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:46: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:46: 2025-11-19T02:13:46.889Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:46: 2025-11-19T02:13:46.890Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:46: 11/19/2025 09:13:46 20363 [INFO] Node Media Server v2.6.6
@@ -399,11 +274,6 @@
 2025-11-19T09:13:46: 11/19/2025 09:13:46 20363 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:46: 11/19/2025 09:13:46 20363 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:46: 11/19/2025 09:13:46 20363 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:46: (node:20363) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:46: 
-2025-11-19T09:13:46: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:46: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:46: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:46: 2025-11-19T02:13:46.935Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:46: 2025-11-19T02:13:46.936Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:46: 2025-11-19T02:13:46.981Z [[32minfo[39m]: Using Local Storage 
@@ -424,11 +294,6 @@
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20385 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20385 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20385 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:47: (node:20385) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:47: 
-2025-11-19T09:13:47: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:47: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:47: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:47: 2025-11-19T02:13:47.024Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:47: 2025-11-19T02:13:47.024Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20392 [INFO] Node Media Server v2.6.6
@@ -447,11 +312,6 @@
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20392 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20392 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20392 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:47: (node:20392) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:47: 
-2025-11-19T09:13:47: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:47: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:47: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:47: 2025-11-19T02:13:47.061Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:47: 2025-11-19T02:13:47.061Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:47: 11/19/2025 09:13:47 20364 [INFO] There is a new version 4.1.0 that can be updated
@@ -478,11 +338,6 @@
 2025-11-19T09:13:49: 11/19/2025 09:13:49 20420 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:49: 11/19/2025 09:13:49 20420 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:49: 11/19/2025 09:13:49 20420 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:49: (node:20420) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:49: 
-2025-11-19T09:13:49: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:49: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:49: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:49: 2025-11-19T02:13:49.945Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:49: 2025-11-19T02:13:49.945Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:49: 2025-11-19T02:13:49.958Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -499,11 +354,6 @@
 2025-11-19T09:13:49: 11/19/2025 09:13:49 20419 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:49: 11/19/2025 09:13:49 20419 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:49: 11/19/2025 09:13:49 20419 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:49: (node:20419) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:49: 
-2025-11-19T09:13:49: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:49: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:49: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:49: 2025-11-19T02:13:49.965Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:49: 2025-11-19T02:13:49.968Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:50: 2025-11-19T02:13:50.059Z [[32minfo[39m]: Using Local Storage 
@@ -526,11 +376,6 @@
 2025-11-19T09:13:50: 11/19/2025 09:13:50 20441 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:50: 11/19/2025 09:13:50 20441 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:50: 11/19/2025 09:13:50 20441 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:50: (node:20441) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:50: 
-2025-11-19T09:13:50: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:50: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:50: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:50: 2025-11-19T02:13:50.102Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:50: 2025-11-19T02:13:50.103Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:50: 2025-11-19T02:13:50.110Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -547,11 +392,6 @@
 2025-11-19T09:13:50: 11/19/2025 09:13:50 20448 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:50: 11/19/2025 09:13:50 20448 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:50: 11/19/2025 09:13:50 20448 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:50: (node:20448) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:50: 
-2025-11-19T09:13:50: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:50: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:50: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:50: 2025-11-19T02:13:50.116Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:50: 2025-11-19T02:13:50.116Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:50: 11/19/2025 09:13:50 20420 [INFO] There is a new version 4.1.0 that can be updated
@@ -578,11 +418,6 @@
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20469 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20469 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20469 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:53: (node:20469) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:53: 
-2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:53: 2025-11-19T02:13:53.066Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:53: 2025-11-19T02:13:53.067Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:53: 2025-11-19T02:13:53.085Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -599,11 +434,6 @@
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20470 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20470 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20470 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:53: (node:20470) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:53: 
-2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:53: 2025-11-19T02:13:53.090Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:53: 2025-11-19T02:13:53.090Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:53: 2025-11-19T02:13:53.180Z [[32minfo[39m]: Using Local Storage 
@@ -626,11 +456,6 @@
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20491 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20491 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20491 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:53: (node:20491) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:53: 
-2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:53: 2025-11-19T02:13:53.227Z [[32minfo[39m]: RTMP Server started successfully {}
 2025-11-19T09:13:53: ====================================
 2025-11-19T09:13:53: 🚀 RTMP Server Started Successfully
@@ -647,11 +472,6 @@
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20498 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:53: 2025-11-19T02:13:53.231Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:53: 2025-11-19T02:13:53.231Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:13:53: (node:20498) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:53: 
-2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:53: 2025-11-19T02:13:53.233Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:53: 2025-11-19T02:13:53.233Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:53: 11/19/2025 09:13:53 20469 [INFO] There is a new version 4.1.0 that can be updated
@@ -678,11 +498,6 @@
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20531 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20531 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20531 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:56: (node:20531) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:56: 
-2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:56: 2025-11-19T02:13:56.033Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:56: 2025-11-19T02:13:56.035Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:56: 2025-11-19T02:13:56.043Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -699,11 +514,6 @@
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20525 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20525 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20525 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:56: (node:20525) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:56: 
-2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:56: 2025-11-19T02:13:56.049Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:56: 2025-11-19T02:13:56.050Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:56: 2025-11-19T02:13:56.169Z [[32minfo[39m]: Using Local Storage 
@@ -723,11 +533,6 @@
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20547 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20547 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20547 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:56: (node:20547) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:56: 
-2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:56: 2025-11-19T02:13:56.209Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:56: 2025-11-19T02:13:56.209Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:56: 2025-11-19T02:13:56.211Z [[32minfo[39m]: Using Local Storage 
@@ -747,11 +552,6 @@
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20558 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20558 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20558 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:56: (node:20558) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:56: 
-2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:56: 2025-11-19T02:13:56.249Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:56: 2025-11-19T02:13:56.249Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:56: 11/19/2025 09:13:56 20525 [INFO] There is a new version 4.1.0 that can be updated
@@ -794,18 +594,8 @@
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20575 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:59: 2025-11-19T02:13:59.106Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:59: 2025-11-19T02:13:59.106Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:13:59: (node:20581) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:59: 
-2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:59: 2025-11-19T02:13:59.107Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:59: 2025-11-19T02:13:59.108Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:13:59: (node:20575) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:59: 
-2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:59: 2025-11-19T02:13:59.216Z [[32minfo[39m]: Using Local Storage 
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20597 [INFO] Node Media Server v2.6.6
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20597 [ERROR] Node Media Trans Server startup failed. ffmpeg:/usr/local/bin/ffmpeg cannot be executed.
@@ -823,11 +613,6 @@
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20597 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20597 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20597 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:59: (node:20597) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:59: 
-2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:59: 2025-11-19T02:13:59.253Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:59: 2025-11-19T02:13:59.253Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:59: 2025-11-19T02:13:59.312Z [[32minfo[39m]: Using Local Storage 
@@ -847,11 +632,6 @@
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20608 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20608 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20608 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:13:59: (node:20608) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:13:59: 
-2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:13:59: 2025-11-19T02:13:59.348Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:13:59: 2025-11-19T02:13:59.348Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:13:59: 11/19/2025 09:13:59 20581 [INFO] There is a new version 4.1.0 that can be updated
@@ -878,11 +658,6 @@
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20631 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20631 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20631 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:02: (node:20631) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:02: 
-2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:02: 2025-11-19T02:14:02.133Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:02: 2025-11-19T02:14:02.134Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:02: 2025-11-19T02:14:02.151Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -899,11 +674,6 @@
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20637 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20637 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20637 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:02: (node:20637) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:02: 
-2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:02: 2025-11-19T02:14:02.162Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:02: 2025-11-19T02:14:02.163Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:02: 2025-11-19T02:14:02.256Z [[32minfo[39m]: Using Local Storage 
@@ -923,11 +693,6 @@
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20653 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20653 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20653 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:02: (node:20653) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:02: 
-2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:02: 2025-11-19T02:14:02.293Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:02: 2025-11-19T02:14:02.293Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:02: 2025-11-19T02:14:02.381Z [[32minfo[39m]: Using Local Storage 
@@ -947,11 +712,6 @@
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20664 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20664 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20664 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:02: (node:20664) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:02: 
-2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:02: 2025-11-19T02:14:02.421Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:02: 2025-11-19T02:14:02.422Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:02: 11/19/2025 09:14:02 20637 [INFO] There is a new version 4.1.0 that can be updated
@@ -978,11 +738,6 @@
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20682 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20682 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20682 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:05: (node:20682) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:05: 
-2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:05: 2025-11-19T02:14:05.215Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:05: 2025-11-19T02:14:05.215Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:05: 2025-11-19T02:14:05.225Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -999,11 +754,6 @@
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20681 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20681 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20681 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:05: (node:20681) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:05: 
-2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:05: 2025-11-19T02:14:05.237Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:05: 2025-11-19T02:14:05.238Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:05: 2025-11-19T02:14:05.344Z [[32minfo[39m]: Using Local Storage 
@@ -1023,11 +773,6 @@
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20703 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20703 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20703 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:05: (node:20703) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:05: 
-2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:05: 2025-11-19T02:14:05.382Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:05: 2025-11-19T02:14:05.382Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:05: 2025-11-19T02:14:05.442Z [[32minfo[39m]: Using Local Storage 
@@ -1047,11 +792,6 @@
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20714 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20714 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20714 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:05: (node:20714) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:05: 
-2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:05: 2025-11-19T02:14:05.479Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:05: 2025-11-19T02:14:05.480Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:05: 11/19/2025 09:14:05 20681 [INFO] There is a new version 4.1.0 that can be updated
@@ -1078,11 +818,6 @@
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20744 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20744 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20744 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:08: (node:20744) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:08: 
-2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:08: 2025-11-19T02:14:08.315Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:08: 2025-11-19T02:14:08.315Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:08: 2025-11-19T02:14:08.329Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -1099,11 +834,6 @@
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20750 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20750 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20750 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:08: (node:20750) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:08: 
-2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:08: 2025-11-19T02:14:08.334Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:08: 2025-11-19T02:14:08.334Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:08: 2025-11-19T02:14:08.410Z [[32minfo[39m]: Using Local Storage 
@@ -1123,11 +853,6 @@
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20766 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20766 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20766 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:08: (node:20766) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:08: 
-2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:08: 2025-11-19T02:14:08.457Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:08: 2025-11-19T02:14:08.457Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:08: 2025-11-19T02:14:08.553Z [[32minfo[39m]: Using Local Storage 
@@ -1147,11 +872,6 @@
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20777 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20777 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20777 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:08: (node:20777) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:08: 
-2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:08: 2025-11-19T02:14:08.593Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:08: 2025-11-19T02:14:08.593Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:08: 11/19/2025 09:14:08 20750 [INFO] There is a new version 4.1.0 that can be updated
@@ -1178,11 +898,6 @@
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20858 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20858 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20858 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:11: (node:20858) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:11: 
-2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:11: 2025-11-19T02:14:11.332Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:11: 2025-11-19T02:14:11.332Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:11: 2025-11-19T02:14:11.342Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -1199,11 +914,6 @@
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20852 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20852 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20852 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:11: (node:20852) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:11: 
-2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:11: 2025-11-19T02:14:11.347Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:11: 2025-11-19T02:14:11.347Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:11: 2025-11-19T02:14:11.494Z [[32minfo[39m]: Using Local Storage 
@@ -1223,11 +933,6 @@
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20874 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20874 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20874 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:11: (node:20874) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:11: 
-2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:11: 2025-11-19T02:14:11.535Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:11: 2025-11-19T02:14:11.535Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:11: 2025-11-19T02:14:11.609Z [[32minfo[39m]: Using Local Storage 
@@ -1247,11 +952,6 @@
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20885 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20885 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20885 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:11: (node:20885) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:11: 
-2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:11: 2025-11-19T02:14:11.650Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:11: 2025-11-19T02:14:11.650Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:11: 11/19/2025 09:14:11 20858 [INFO] There is a new version 4.1.0 that can be updated
@@ -1278,11 +978,6 @@
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20954 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20954 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20954 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:14: (node:20954) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:14: 
-2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:14: 2025-11-19T02:14:14.396Z [[32minfo[39m]: RTMP Server started successfully {}
 2025-11-19T09:14:14: ====================================
 2025-11-19T09:14:14: 2025-11-19T02:14:14.397Z [[32minfo[39m]: Local storage directories initialized 
@@ -1299,11 +994,6 @@
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20955 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20955 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20955 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:14: (node:20955) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:14: 
-2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:14: 2025-11-19T02:14:14.404Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:14: 2025-11-19T02:14:14.404Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:14: 2025-11-19T02:14:14.557Z [[32minfo[39m]: Using Local Storage 
@@ -1323,11 +1013,6 @@
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20976 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20976 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20976 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:14: (node:20976) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:14: 
-2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:14: 2025-11-19T02:14:14.597Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:14: 2025-11-19T02:14:14.598Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:14: 2025-11-19T02:14:14.672Z [[32minfo[39m]: Using Local Storage 
@@ -1347,11 +1032,6 @@
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20987 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20987 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20987 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:14: (node:20987) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:14: 
-2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:14: 2025-11-19T02:14:14.711Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:14: 2025-11-19T02:14:14.711Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:14: 11/19/2025 09:14:14 20954 [INFO] There is a new version 4.1.0 that can be updated
@@ -1378,11 +1058,6 @@
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21023 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21023 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21023 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:17: (node:21023) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:17: 
-2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:17: 2025-11-19T02:14:17.463Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:17: 2025-11-19T02:14:17.463Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:17: 2025-11-19T02:14:17.475Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -1399,11 +1074,6 @@
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21022 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21022 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21022 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:17: (node:21022) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:17: 
-2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:17: 2025-11-19T02:14:17.480Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:17: 2025-11-19T02:14:17.480Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:17: 2025-11-19T02:14:17.607Z [[32minfo[39m]: Using Local Storage 
@@ -1423,11 +1093,6 @@
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21044 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21044 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21044 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:17: (node:21044) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:17: 
-2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:17: 2025-11-19T02:14:17.648Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:17: 2025-11-19T02:14:17.648Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:17: 2025-11-19T02:14:17.733Z [[32minfo[39m]: Using Local Storage 
@@ -1447,11 +1112,6 @@
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21055 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21055 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21055 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:17: (node:21055) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:17: 
-2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:17: 2025-11-19T02:14:17.778Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:17: 2025-11-19T02:14:17.778Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:17: 11/19/2025 09:14:17 21023 [INFO] There is a new version 4.1.0 that can be updated
@@ -1478,11 +1138,6 @@
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21112 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21112 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21112 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:21: (node:21112) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:21: 
-2025-11-19T09:14:21: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:21: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:21: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:21: 2025-11-19T02:14:21.779Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:21: 2025-11-19T02:14:21.779Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:21: 2025-11-19T02:14:21.787Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -1499,11 +1154,6 @@
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21111 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21111 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21111 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:21: (node:21111) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:21: 
-2025-11-19T09:14:21: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:21: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:21: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:21: 2025-11-19T02:14:21.792Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:21: 2025-11-19T02:14:21.793Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:21: 2025-11-19T02:14:21.921Z [[32minfo[39m]: Using Local Storage 
@@ -1523,11 +1173,6 @@
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21133 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21133 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:21: 11/19/2025 09:14:21 21133 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:21: (node:21133) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:21: 
-2025-11-19T09:14:21: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:21: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:21: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:21: 2025-11-19T02:14:21.965Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:21: 2025-11-19T02:14:21.965Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:22: 2025-11-19T02:14:22.062Z [[32minfo[39m]: Using Local Storage 
@@ -1547,11 +1192,6 @@
 2025-11-19T09:14:22: 11/19/2025 09:14:22 21144 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:22: 11/19/2025 09:14:22 21144 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:22: 11/19/2025 09:14:22 21144 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:22: (node:21144) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:22: 
-2025-11-19T09:14:22: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:22: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:22: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:22: 2025-11-19T02:14:22.103Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:22: 2025-11-19T02:14:22.103Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:22: 11/19/2025 09:14:22 21112 [INFO] There is a new version 4.1.0 that can be updated
@@ -1594,16 +1234,6 @@
 2025-11-19T09:14:24: 11/19/2025 09:14:24 21162 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:24: 2025-11-19T02:14:24.854Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:24: 2025-11-19T02:14:24.854Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:14:24: (node:21162) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:24: 
-2025-11-19T09:14:24: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:24: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:24: (Use `node --trace-warnings ...` to show where the warning was created)
-2025-11-19T09:14:24: (node:21161) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:24: 
-2025-11-19T09:14:24: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:24: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:24: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:24: 2025-11-19T02:14:24.856Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:24: 2025-11-19T02:14:24.856Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:25: 2025-11-19T02:14:25.026Z [[32minfo[39m]: Using Local Storage 
@@ -1623,11 +1253,6 @@
 2025-11-19T09:14:25: 11/19/2025 09:14:25 21183 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:25: 11/19/2025 09:14:25 21183 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:25: 11/19/2025 09:14:25 21183 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:25: (node:21183) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:25: 
-2025-11-19T09:14:25: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:25: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:25: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:25: 2025-11-19T02:14:25.071Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:25: 2025-11-19T02:14:25.071Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:25: 2025-11-19T02:14:25.142Z [[32minfo[39m]: Using Local Storage 
@@ -1647,11 +1272,6 @@
 2025-11-19T09:14:25: 11/19/2025 09:14:25 21194 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:25: 11/19/2025 09:14:25 21194 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:25: 11/19/2025 09:14:25 21194 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:25: (node:21194) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:25: 
-2025-11-19T09:14:25: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:25: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:25: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:25: 2025-11-19T02:14:25.185Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:25: 2025-11-19T02:14:25.185Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:25: 11/19/2025 09:14:25 21162 [INFO] There is a new version 4.1.0 that can be updated
@@ -1678,11 +1298,6 @@
 2025-11-19T09:14:27: 11/19/2025 09:14:27 21217 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:27: 11/19/2025 09:14:27 21217 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:27: 11/19/2025 09:14:27 21217 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:27: (node:21217) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:27: 
-2025-11-19T09:14:27: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:27: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:27: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:27: 2025-11-19T02:14:27.945Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:27: 2025-11-19T02:14:27.946Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:27: 2025-11-19T02:14:27.961Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -1699,11 +1314,6 @@
 2025-11-19T09:14:27: 11/19/2025 09:14:27 21220 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:27: 11/19/2025 09:14:27 21220 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:27: 11/19/2025 09:14:27 21220 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:27: (node:21220) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:27: 
-2025-11-19T09:14:27: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:27: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:27: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:27: 2025-11-19T02:14:27.967Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:27: 2025-11-19T02:14:27.967Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:28: 2025-11-19T02:14:28.052Z [[32minfo[39m]: Using Local Storage 
@@ -1723,11 +1333,6 @@
 2025-11-19T09:14:28: 11/19/2025 09:14:28 21239 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:28: 11/19/2025 09:14:28 21239 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:28: 11/19/2025 09:14:28 21239 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:28: (node:21239) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:28: 
-2025-11-19T09:14:28: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:28: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:28: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:28: 2025-11-19T02:14:28.090Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:28: 2025-11-19T02:14:28.090Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:28: 2025-11-19T02:14:28.175Z [[32minfo[39m]: Using Local Storage 
@@ -1747,11 +1352,6 @@
 2025-11-19T09:14:28: 11/19/2025 09:14:28 21250 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:28: 11/19/2025 09:14:28 21250 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:28: 11/19/2025 09:14:28 21250 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:28: (node:21250) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:28: 
-2025-11-19T09:14:28: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:28: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:28: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:28: 2025-11-19T02:14:28.213Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:28: 2025-11-19T02:14:28.213Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:28: 11/19/2025 09:14:28 21220 [INFO] There is a new version 4.1.0 that can be updated
@@ -1776,11 +1376,6 @@
 2025-11-19T09:14:30: 11/19/2025 09:14:30 21275 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:30: 11/19/2025 09:14:30 21275 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:30: 11/19/2025 09:14:30 21275 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:30: (node:21275) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:30: 
-2025-11-19T09:14:30: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:30: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:30: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:30: 2025-11-19T02:14:30.983Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:30: 2025-11-19T02:14:30.983Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:30: 11/19/2025 09:14:30 21281 [INFO] Node Media Server v2.6.6
@@ -1799,11 +1394,6 @@
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21281 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21281 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21281 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:31: (node:21281) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:31: 
-2025-11-19T09:14:31: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:31: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:31: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:31: 2025-11-19T02:14:31.014Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:31: 2025-11-19T02:14:31.015Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:31: 2025-11-19T02:14:31.102Z [[32minfo[39m]: Using Local Storage 
@@ -1823,11 +1413,6 @@
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21297 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21297 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21297 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:31: (node:21297) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:31: 
-2025-11-19T09:14:31: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:31: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:31: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:31: 2025-11-19T02:14:31.141Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:31: 2025-11-19T02:14:31.142Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:31: 2025-11-19T02:14:31.240Z [[32minfo[39m]: Using Local Storage 
@@ -1847,11 +1432,6 @@
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21308 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21308 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21308 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:31: (node:21308) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:31: 
-2025-11-19T09:14:31: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:31: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:31: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:31: 2025-11-19T02:14:31.278Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:31: 2025-11-19T02:14:31.278Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:31: 11/19/2025 09:14:31 21275 [INFO] There is a new version 4.1.0 that can be updated
@@ -1892,18 +1472,8 @@
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21596 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21589 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21596 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:34: (node:21596) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:34: 
-2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:34: 2025-11-19T02:14:34.087Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:34: 2025-11-19T02:14:34.088Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:14:34: (node:21589) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:34: 
-2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:34: 2025-11-19T02:14:34.093Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:34: 2025-11-19T02:14:34.093Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:34: 2025-11-19T02:14:34.232Z [[32minfo[39m]: Using Local Storage 
@@ -1923,11 +1493,6 @@
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21611 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21611 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21611 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:34: (node:21611) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:34: 
-2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:34: 2025-11-19T02:14:34.275Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:34: 2025-11-19T02:14:34.276Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:34: 2025-11-19T02:14:34.346Z [[32minfo[39m]: Using Local Storage 
@@ -1947,11 +1512,6 @@
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21622 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21622 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21622 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:34: (node:21622) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:34: 
-2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:34: 2025-11-19T02:14:34.390Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:34: 2025-11-19T02:14:34.390Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:34: 11/19/2025 09:14:34 21589 [INFO] There is a new version 4.1.0 that can be updated
@@ -1978,11 +1538,6 @@
 2025-11-19T09:14:37: 11/19/2025 09:14:37 21671 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:14:37: 11/19/2025 09:14:37 21671 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:37: 11/19/2025 09:14:37 21671 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:14:37: (node:21671) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:37: 
-2025-11-19T09:14:37: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:37: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:37: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:37: 2025-11-19T02:14:37.102Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:37: 2025-11-19T02:14:37.102Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:14:37: 2025-11-19T02:14:37.107Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2001,11 +1556,6 @@
 2025-11-19T09:14:37: 11/19/2025 09:14:37 21678 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:14:37: 2025-11-19T02:14:37.112Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:14:37: 2025-11-19T02:14:37.112Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:14:37: (node:21678) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:14:37: 
-2025-11-19T09:14:37: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:14:37: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:14:37: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:14:37: 2025-11-19T02:14:37.229Z [[32minfo[39m]: Received SIGINT, shutting down gracefully... 
 2025-11-19T09:14:37: 2025-11-19T02:14:37.229Z [[32minfo[39m]: RTMP Server stopped 
 2025-11-19T09:14:37: 2025-11-19T02:14:37.241Z [[32minfo[39m]: Received SIGINT, shutting down gracefully... 
@@ -2032,8 +1582,8 @@
 2025-11-19T09:19:38: 🌐 Fastify Server: http://localhost:undefined
 2025-11-19T09:19:38: 💾 Storage: undefined
 2025-11-19T09:19:38: 🌍 Environment: undefined
-2025-11-19T09:19:38: ====================================
 2025-11-19T09:19:38: 2025-11-19T02:19:38.601Z [[32minfo[39m]: RTMP Server started successfully {}
+2025-11-19T09:19:38: ====================================
 2025-11-19T09:19:38: ====================================
 2025-11-19T09:19:38: 2025-11-19T02:19:38.601Z [[32minfo[39m]: RTMP Server started successfully {}
 2025-11-19T09:19:38: ====================================
@@ -2066,24 +1616,9 @@
 2025-11-19T09:19:38: 11/19/2025 09:19:38 1730 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:38: 2025-11-19T02:19:38.603Z [[32minfo[39m]: RTMP Server started successfully {}
 2025-11-19T09:19:38: ====================================
-2025-11-19T09:19:38: (node:1739) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:38: 
-2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:38: 🚀 RTMP Server Started Successfully
-2025-11-19T09:19:38: (node:1726) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:38: 
-2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:38: ====================================
 2025-11-19T09:19:38: 📺 RTMP URL: rtmp://localhost:undefined/live
-2025-11-19T09:19:38: (node:1730) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:38: 
-2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:38: 🌐 HTTP Server: http://localhost:undefined
 2025-11-19T09:19:38: 📊 Admin Panel: http://localhost:undefined/admin
 2025-11-19T09:19:38: 🌐 Fastify Server: http://localhost:undefined
@@ -2099,11 +1634,6 @@
 2025-11-19T09:19:38: 11/19/2025 09:19:38 1733 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:38: 2025-11-19T02:19:38.606Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:38: 2025-11-19T02:19:38.606Z [[32minfo[39m]: Local storage directories initialized 
-2025-11-19T09:19:38: (node:1733) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:38: 
-2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:38: 2025-11-19T02:19:38.608Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:38: 2025-11-19T02:19:38.608Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:39: 11/19/2025 09:19:39 1733 [INFO] There is a new version 4.1.0 that can be updated
@@ -2130,11 +1660,6 @@
 2025-11-19T09:19:41: 11/19/2025 09:19:41 1822 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:41: 11/19/2025 09:19:41 1822 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:41: 11/19/2025 09:19:41 1822 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:41: (node:1822) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:41: 
-2025-11-19T09:19:41: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:41: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:41: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:41: 2025-11-19T02:19:41.252Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:41: 2025-11-19T02:19:41.252Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:41: 2025-11-19T02:19:41.255Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2151,11 +1676,6 @@
 2025-11-19T09:19:41: 11/19/2025 09:19:41 1821 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:41: 11/19/2025 09:19:41 1821 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:41: 11/19/2025 09:19:41 1821 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:41: (node:1821) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:41: 
-2025-11-19T09:19:41: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:41: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:41: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:41: 2025-11-19T02:19:41.258Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:41: 2025-11-19T02:19:41.258Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:41: 11/19/2025 09:19:41 1822 [INFO] There is a new version 4.1.0 that can be updated
@@ -2180,11 +1700,6 @@
 2025-11-19T09:19:44: 11/19/2025 09:19:44 1844 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:44: 11/19/2025 09:19:44 1844 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:44: 11/19/2025 09:19:44 1844 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:44: (node:1844) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:44: 
-2025-11-19T09:19:44: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:44: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:44: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:44: 2025-11-19T02:19:44.306Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:44: 2025-11-19T02:19:44.306Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:44: 2025-11-19T02:19:44.308Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2201,11 +1716,6 @@
 2025-11-19T09:19:44: 11/19/2025 09:19:44 1843 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:44: 11/19/2025 09:19:44 1843 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:44: 11/19/2025 09:19:44 1843 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:44: (node:1843) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:44: 
-2025-11-19T09:19:44: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:44: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:44: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:44: 2025-11-19T02:19:44.312Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:44: 2025-11-19T02:19:44.312Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:44: 11/19/2025 09:19:44 1844 [INFO] There is a new version 4.1.0 that can be updated
@@ -2230,11 +1740,6 @@
 2025-11-19T09:19:47: 11/19/2025 09:19:47 1866 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:47: 11/19/2025 09:19:47 1866 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:47: 11/19/2025 09:19:47 1866 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:47: (node:1866) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:47: 
-2025-11-19T09:19:47: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:47: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:47: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:47: 2025-11-19T02:19:47.355Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:47: 2025-11-19T02:19:47.355Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:47: 2025-11-19T02:19:47.360Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2251,11 +1756,6 @@
 2025-11-19T09:19:47: 11/19/2025 09:19:47 1865 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:47: 11/19/2025 09:19:47 1865 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:47: 11/19/2025 09:19:47 1865 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:47: (node:1865) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:47: 
-2025-11-19T09:19:47: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:47: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:47: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:47: 2025-11-19T02:19:47.364Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:47: 2025-11-19T02:19:47.364Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:47: 11/19/2025 09:19:47 1866 [INFO] There is a new version 4.1.0 that can be updated
@@ -2294,16 +1794,6 @@
 2025-11-19T09:19:50: 11/19/2025 09:19:50 1887 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:50: 11/19/2025 09:19:50 1887 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:50: 11/19/2025 09:19:50 1887 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:50: (node:1894) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:50: 
-2025-11-19T09:19:50: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:50: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:50: (Use `node --trace-warnings ...` to show where the warning was created)
-2025-11-19T09:19:50: (node:1887) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:50: 
-2025-11-19T09:19:50: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:50: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:50: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:50: 2025-11-19T02:19:50.487Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:50: 2025-11-19T02:19:50.488Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:50: 2025-11-19T02:19:50.488Z [[32minfo[39m]: Local storage directories initialized 
@@ -2330,11 +1820,6 @@
 2025-11-19T09:19:53: 11/19/2025 09:19:53 1909 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:53: 11/19/2025 09:19:53 1909 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:53: 11/19/2025 09:19:53 1916 [ERROR] Node Media Trans Server startup failed. ffmpeg:/usr/local/bin/ffmpeg cannot be executed.
-2025-11-19T09:19:53: (node:1909) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:53: 
-2025-11-19T09:19:53: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:53: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:53: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:53: 2025-11-19T02:19:53.487Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:53: 2025-11-19T02:19:53.487Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:53: 2025-11-19T02:19:53.505Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2351,11 +1836,6 @@
 2025-11-19T09:19:53: 11/19/2025 09:19:53 1916 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:53: 11/19/2025 09:19:53 1916 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:53: 11/19/2025 09:19:53 1916 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:53: (node:1916) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:53: 
-2025-11-19T09:19:53: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:53: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:53: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:53: 2025-11-19T02:19:53.508Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:53: 2025-11-19T02:19:53.508Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:54: 11/19/2025 09:19:54 1916 [INFO] There is a new version 4.1.0 that can be updated
@@ -2380,11 +1860,6 @@
 2025-11-19T09:19:56: 11/19/2025 09:19:56 1931 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:56: 11/19/2025 09:19:56 1931 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:56: 11/19/2025 09:19:56 1931 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:56: (node:1931) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:56: 
-2025-11-19T09:19:56: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:56: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:56: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:56: 2025-11-19T02:19:56.552Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:56: 2025-11-19T02:19:56.553Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:56: 2025-11-19T02:19:56.554Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2401,11 +1876,6 @@
 2025-11-19T09:19:56: 11/19/2025 09:19:56 1938 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:56: 11/19/2025 09:19:56 1938 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:56: 11/19/2025 09:19:56 1938 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:56: (node:1938) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:56: 
-2025-11-19T09:19:56: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:56: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:56: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:56: 2025-11-19T02:19:56.558Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:56: 2025-11-19T02:19:56.558Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:57: 11/19/2025 09:19:57 1931 [INFO] There is a new version 4.1.0 that can be updated
@@ -2430,11 +1900,6 @@
 2025-11-19T09:19:59: 11/19/2025 09:19:59 1953 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:59: 11/19/2025 09:19:59 1953 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:59: 11/19/2025 09:19:59 1953 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:59: (node:1953) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:59: 
-2025-11-19T09:19:59: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:59: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:59: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:59: 2025-11-19T02:19:59.602Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:59: 2025-11-19T02:19:59.602Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:19:59: 2025-11-19T02:19:59.611Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2451,11 +1916,6 @@
 2025-11-19T09:19:59: 11/19/2025 09:19:59 1960 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:19:59: 11/19/2025 09:19:59 1960 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:19:59: 11/19/2025 09:19:59 1960 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:19:59: (node:1960) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:19:59: 
-2025-11-19T09:19:59: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:19:59: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:19:59: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:19:59: 2025-11-19T02:19:59.615Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:19:59: 2025-11-19T02:19:59.615Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:00: 11/19/2025 09:20:00 1960 [INFO] There is a new version 4.1.0 that can be updated
@@ -2480,11 +1940,6 @@
 2025-11-19T09:20:02: 11/19/2025 09:20:02 2008 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:20:02: 11/19/2025 09:20:02 2008 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:02: 11/19/2025 09:20:02 2008 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:20:02: (node:2008) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:02: 
-2025-11-19T09:20:02: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:02: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:02: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:02: 2025-11-19T02:20:02.651Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:02: 2025-11-19T02:20:02.651Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:02: 2025-11-19T02:20:02.656Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2501,11 +1956,6 @@
 2025-11-19T09:20:02: 11/19/2025 09:20:02 2015 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:20:02: 11/19/2025 09:20:02 2015 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:02: 11/19/2025 09:20:02 2015 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:20:02: (node:2015) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:02: 
-2025-11-19T09:20:02: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:02: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:02: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:02: 2025-11-19T02:20:02.660Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:02: 2025-11-19T02:20:02.660Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:03: 11/19/2025 09:20:03 2015 [INFO] There is a new version 4.1.0 that can be updated
@@ -2528,11 +1978,6 @@
 2025-11-19T09:20:05: 11/19/2025 09:20:05 2036 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:05: 11/19/2025 09:20:05 2036 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:05: 2025-11-19T02:20:05.689Z [[32minfo[39m]: Using Local Storage 
-2025-11-19T09:20:05: (node:2036) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:05: 
-2025-11-19T09:20:05: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:05: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:05: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:05: 2025-11-19T02:20:05.692Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:05: 2025-11-19T02:20:05.692Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:05: 11/19/2025 09:20:05 2043 [INFO] Node Media Server v2.6.6
@@ -2551,11 +1996,6 @@
 2025-11-19T09:20:05: 11/19/2025 09:20:05 2043 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:20:05: 11/19/2025 09:20:05 2043 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:05: 11/19/2025 09:20:05 2043 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:20:05: (node:2043) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:05: 
-2025-11-19T09:20:05: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:05: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:05: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:05: 2025-11-19T02:20:05.727Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:05: 2025-11-19T02:20:05.727Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:06: 11/19/2025 09:20:06 2043 [INFO] There is a new version 4.1.0 that can be updated
@@ -2577,11 +2017,6 @@
 2025-11-19T09:20:08: 11/19/2025 09:20:08 2094 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:20:08: 11/19/2025 09:20:08 2094 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:08: 11/19/2025 09:20:08 2094 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:20:08: (node:2094) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:08: 
-2025-11-19T09:20:08: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:08: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:08: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:08: 2025-11-19T02:20:08.744Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:08: 2025-11-19T02:20:08.744Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:08: 2025-11-19T02:20:08.752Z [[32minfo[39m]: Using Local Storage 
@@ -2601,11 +2036,6 @@
 2025-11-19T09:20:08: 11/19/2025 09:20:08 2101 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:20:08: 11/19/2025 09:20:08 2101 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:08: 11/19/2025 09:20:08 2101 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:20:08: (node:2101) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:08: 
-2025-11-19T09:20:08: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:08: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:08: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:08: 2025-11-19T02:20:08.788Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:08: 2025-11-19T02:20:08.789Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:09: 11/19/2025 09:20:09 2094 [INFO] There is a new version 4.1.0 that can be updated
@@ -2627,11 +2057,6 @@
 2025-11-19T09:20:11: 11/19/2025 09:20:11 2119 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:20:11: 11/19/2025 09:20:11 2119 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:11: 11/19/2025 09:20:11 2119 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:20:11: (node:2119) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:11: 
-2025-11-19T09:20:11: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:11: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:11: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:11: 2025-11-19T02:20:11.785Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:11: 2025-11-19T02:20:11.785Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:11: 2025-11-19T02:20:11.797Z [[32minfo[39m]: Using Local Storage 
@@ -2651,11 +2076,6 @@
 2025-11-19T09:20:11: 11/19/2025 09:20:11 2126 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:20:11: 11/19/2025 09:20:11 2126 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:20:11: 11/19/2025 09:20:11 2126 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:20:11: (node:2126) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:20:11: 
-2025-11-19T09:20:11: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:20:11: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:20:11: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:20:11: 2025-11-19T02:20:11.835Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:20:11: 2025-11-19T02:20:11.835Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:20:12: 11/19/2025 09:20:12 2119 [INFO] There is a new version 4.1.0 that can be updated
@@ -2700,11 +2120,6 @@
 2025-11-19T09:34:54: 📺 RTMP URL: rtmp://localhost:undefined/live
 2025-11-19T09:34:54: 🌐 HTTP Server: http://localhost:undefined
 2025-11-19T09:34:54: 📊 Admin Panel: http://localhost:undefined/admin
-2025-11-19T09:34:54: (node:9115) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:34:54: 
-2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:34:54: 🌐 Fastify Server: http://localhost:undefined
 2025-11-19T09:34:54: 💾 Storage: undefined
 2025-11-19T09:34:54: 🌍 Environment: undefined
@@ -2715,11 +2130,6 @@
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9121 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9127 [ERROR] Node Media Trans Server startup failed. ffmpeg:/usr/local/bin/ffmpeg cannot be executed.
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9121 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:34:54: (node:9121) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:34:54: 
-2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:34:54: 2025-11-19T02:34:54.390Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:34:54: 2025-11-19T02:34:54.390Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:34:54: 2025-11-19T02:34:54.395Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2736,11 +2146,6 @@
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9114 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9114 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9114 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:34:54: (node:9114) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:34:54: 
-2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:34:54: 2025-11-19T02:34:54.399Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:34:54: 2025-11-19T02:34:54.399Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:34:54: 2025-11-19T02:34:54.405Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2757,11 +2162,6 @@
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9127 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9127 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:34:54: 11/19/2025 09:34:54 9127 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:34:54: (node:9127) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:34:54: 
-2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:34:54: 2025-11-19T02:34:54.408Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:34:54: 2025-11-19T02:34:54.409Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:34:55: 11/19/2025 09:34:55 9114 [INFO] There is a new version 4.1.0 that can be updated
@@ -2805,16 +2205,6 @@
 2025-11-19T09:34:57: 11/19/2025 09:34:57 9225 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:34:57: 11/19/2025 09:34:57 9218 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:34:57: 11/19/2025 09:34:57 9225 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:34:57: (node:9218) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:34:57: 
-2025-11-19T09:34:57: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:34:57: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:34:57: (Use `node --trace-warnings ...` to show where the warning was created)
-2025-11-19T09:34:57: (node:9225) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:34:57: 
-2025-11-19T09:34:57: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:34:57: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:34:57: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:34:57: 2025-11-19T02:34:57.384Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:34:57: 2025-11-19T02:34:57.384Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:34:57: 2025-11-19T02:34:57.384Z [[32minfo[39m]: Local storage directories initialized 
@@ -2833,11 +2223,6 @@
 2025-11-19T09:34:57: 11/19/2025 09:34:57 9232 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:34:57: 11/19/2025 09:34:57 9232 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:34:57: 11/19/2025 09:34:57 9232 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:34:57: (node:9232) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:34:57: 
-2025-11-19T09:34:57: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:34:57: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:34:57: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:34:57: 2025-11-19T02:34:57.401Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:34:57: 2025-11-19T02:34:57.402Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:34:57: 11/19/2025 09:34:57 9232 [INFO] There is a new version 4.1.0 that can be updated
@@ -2868,8 +2253,8 @@
 2025-11-19T09:35:00: 🚀 RTMP Server Started Successfully
 2025-11-19T09:35:00: ====================================
 2025-11-19T09:35:00: 📺 RTMP URL: rtmp://localhost:undefined/live
-2025-11-19T09:35:00: 🌐 HTTP Server: http://localhost:undefined
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9273 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
+2025-11-19T09:35:00: 🌐 HTTP Server: http://localhost:undefined
 2025-11-19T09:35:00: 📊 Admin Panel: http://localhost:undefined/admin
 2025-11-19T09:35:00: 🌐 Fastify Server: http://localhost:undefined
 2025-11-19T09:35:00: 💾 Storage: undefined
@@ -2880,18 +2265,8 @@
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9266 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9266 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9266 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:00: (node:9273) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:00: 
-2025-11-19T09:35:00: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:00: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:00: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:00: 2025-11-19T02:35:00.473Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:00: 2025-11-19T02:35:00.473Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:35:00: (node:9266) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:00: 
-2025-11-19T09:35:00: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:00: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:00: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:00: 2025-11-19T02:35:00.474Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:00: 2025-11-19T02:35:00.474Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:00: 2025-11-19T02:35:00.484Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -2908,11 +2283,6 @@
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9280 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9280 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9280 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:00: (node:9280) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:00: 
-2025-11-19T09:35:00: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:00: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:00: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:00: 2025-11-19T02:35:00.489Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:00: 2025-11-19T02:35:00.489Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:00: 11/19/2025 09:35:00 9280 [INFO] There is a new version 4.1.0 that can be updated
@@ -2938,11 +2308,6 @@
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9305 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9305 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9305 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:03: (node:9305) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:03: 
-2025-11-19T09:35:03: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:03: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:03: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:03: 2025-11-19T02:35:03.506Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:03: 2025-11-19T02:35:03.506Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:03: 2025-11-19T02:35:03.518Z [[32minfo[39m]: Using Local Storage 
@@ -2960,11 +2325,6 @@
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9312 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9312 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9312 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:03: (node:9312) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:03: 
-2025-11-19T09:35:03: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:03: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:03: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:03: 2025-11-19T02:35:03.524Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:03: 2025-11-19T02:35:03.524Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9319 [INFO] Node Media Server v2.6.6
@@ -2983,11 +2343,6 @@
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9319 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9319 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9319 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:03: (node:9319) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:03: 
-2025-11-19T09:35:03: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:03: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:03: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:03: 2025-11-19T02:35:03.555Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:03: 2025-11-19T02:35:03.555Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:03: 11/19/2025 09:35:03 9319 [INFO] There is a new version 4.1.0 that can be updated
@@ -3013,11 +2368,6 @@
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9400 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9400 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9400 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:06: (node:9400) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:06: 
-2025-11-19T09:35:06: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:06: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:06: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:06: 2025-11-19T02:35:06.563Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:06: 2025-11-19T02:35:06.563Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:06: 2025-11-19T02:35:06.573Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -3034,11 +2384,6 @@
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9406 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9406 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9406 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:06: (node:9406) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:06: 
-2025-11-19T09:35:06: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:06: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:06: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:06: 2025-11-19T02:35:06.576Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:06: 2025-11-19T02:35:06.576Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:06: 2025-11-19T02:35:06.582Z [[32minfo[39m]: Using Local Storage 
@@ -3058,11 +2403,6 @@
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9414 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9414 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9414 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:06: (node:9414) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:06: 
-2025-11-19T09:35:06: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:06: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:06: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:06: 2025-11-19T02:35:06.620Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:06: 2025-11-19T02:35:06.620Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:06: 11/19/2025 09:35:06 9400 [INFO] There is a new version 4.1.0 that can be updated
@@ -3102,18 +2442,8 @@
 2025-11-19T09:35:09: 11/19/2025 09:35:09 9505 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:09: 11/19/2025 09:35:09 9512 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:09: 11/19/2025 09:35:09 9512 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:09: (node:9505) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:09: 
-2025-11-19T09:35:09: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:09: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:09: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:09: 2025-11-19T02:35:09.648Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:09: 2025-11-19T02:35:09.649Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
-2025-11-19T09:35:09: (node:9512) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:09: 
-2025-11-19T09:35:09: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:09: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:09: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:09: 2025-11-19T02:35:09.650Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:09: 2025-11-19T02:35:09.651Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:09: 2025-11-19T02:35:09.670Z [[32minfo[39m]: Using Local Storage 
@@ -3133,11 +2463,6 @@
 2025-11-19T09:35:09: 11/19/2025 09:35:09 9519 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:09: 11/19/2025 09:35:09 9519 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:09: 11/19/2025 09:35:09 9519 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:09: (node:9519) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:09: 
-2025-11-19T09:35:09: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:09: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:09: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:09: 2025-11-19T02:35:09.708Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:09: 2025-11-19T02:35:09.708Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:09: 11/19/2025 09:35:09 9512 [INFO] There is a new version 4.1.0 that can be updated
@@ -3163,11 +2488,6 @@
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9628 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9628 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9628 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:12: (node:9628) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:12: 
-2025-11-19T09:35:12: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:12: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:12: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:12: 2025-11-19T02:35:12.718Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:12: 2025-11-19T02:35:12.719Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:12: 2025-11-19T02:35:12.725Z [[32minfo[39m]: RTMP Server started successfully {}
@@ -3184,11 +2504,6 @@
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9635 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9635 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9635 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:12: (node:9635) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:12: 
-2025-11-19T09:35:12: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:12: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:12: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:12: 2025-11-19T02:35:12.728Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:12: 2025-11-19T02:35:12.729Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:12: 2025-11-19T02:35:12.730Z [[32minfo[39m]: Using Local Storage 
@@ -3208,11 +2523,6 @@
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9642 [ERROR] Node Media Rtmp Server Error: listen EADDRINUSE: address already in use :::1935
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9642 [ERROR] Node Media Http Server Error: listen EADDRINUSE: address already in use :::8002
 2025-11-19T09:35:12: 11/19/2025 09:35:12 9642 [ERROR] Node Media WebSocket Server Error: listen EADDRINUSE: address already in use :::8002
-2025-11-19T09:35:12: (node:9642) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:12: 
-2025-11-19T09:35:12: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:12: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:12: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:12: 2025-11-19T02:35:12.770Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:12: 2025-11-19T02:35:12.771Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:14: 11/19/2025 09:35:14 9628 [INFO] There is a new version 4.1.0 that can be updated
@@ -3243,11 +2553,6 @@
 2025-11-19T09:35:20: 11/19/2025 09:35:20 9782 [INFO] Node Media Rtmp Server started on port: 1935
 2025-11-19T09:35:20: 11/19/2025 09:35:20 9782 [INFO] Node Media Http Server started on port: 8002
 2025-11-19T09:35:20: 11/19/2025 09:35:20 9782 [INFO] Node Media WebSocket Server started on port: 8002
-2025-11-19T09:35:20: (node:9782) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
-2025-11-19T09:35:20: 
-2025-11-19T09:35:20: Please migrate your code to use AWS SDK for JavaScript (v3).
-2025-11-19T09:35:20: For more information, check the migration guide at https://a.co/7PzMCcy
-2025-11-19T09:35:20: (Use `node --trace-warnings ...` to show where the warning was created)
 2025-11-19T09:35:20: 2025-11-19T02:35:20.351Z [[32minfo[39m]: Local storage directories initialized 
 2025-11-19T09:35:20: 2025-11-19T02:35:20.351Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
 2025-11-19T09:35:21: 11/19/2025 09:35:21 9782 [INFO] There is a new version 4.1.0 that can be updated
@@ -5684,16 +4989,6 @@
 2025-11-19T10:06:27: 11/19/2025 10:06:27 9782 [INFO] [http-flv disconnect] id=JM4P04F6
 2025-11-19T10:06:38: 11/19/2025 10:06:38 9782 [INFO] [websocket-flv play] Close stream. id=BPYMKOWZ streamPath=/live/abc
 2025-11-19T10:06:38: 11/19/2025 10:06:38 9782 [INFO] [websocket-flv disconnect] id=BPYMKOWZ
-2025-11-19T10:06:38: TypeError: Cannot read properties of undefined (reading 'bytesWritten')
-2025-11-19T10:06:38:     at NodeFlvSession.stop (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/node-media-server/src/node_flv_session.js:94:57)
-2025-11-19T10:06:38:     at NodeFlvSession.onReqClose (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/node-media-server/src/node_flv_session.js:104:10)
-2025-11-19T10:06:38:     at WebSocket.emit (node:events:536:35)
-2025-11-19T10:06:38:     at WebSocket.emit (node:domain:489:12)
-2025-11-19T10:06:38:     at WebSocket.emitClose (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/ws/lib/websocket.js:272:10)
-2025-11-19T10:06:38:     at Socket.socketOnClose (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/ws/lib/websocket.js:1341:15)
-2025-11-19T10:06:38:     at Socket.emit (node:events:524:28)
-2025-11-19T10:06:38:     at Socket.emit (node:domain:489:12)
-2025-11-19T10:06:38:     at TCP.<anonymous> (node:net:343:12)
 2025-11-19T10:06:38: 11/19/2025 10:06:38 9782 [ERROR] uncaughtException TypeError: Cannot read properties of undefined (reading 'bytesWritten')
 2025-11-19T10:06:38:     at NodeFlvSession.stop (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/node-media-server/src/node_flv_session.js:94:57)
 2025-11-19T10:06:38:     at NodeFlvSession.onReqClose (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/node-media-server/src/node_flv_session.js:104:10)
@@ -5708,13 +5003,3 @@
 2025-11-19T10:07:50: 11/19/2025 10:07:50 9782 [INFO] [rtmp disconnect] id=C1868WE2
 2025-11-19T10:10:56: 2025-11-19T03:10:56.931Z [[32minfo[39m]: Received SIGINT, shutting down gracefully... 
 2025-11-19T10:10:56: 2025-11-19T03:10:56.932Z [[32minfo[39m]: RTMP Server stopped 
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-19T03:11:02.967Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1936","storageType":"local","timestamp":"2025-11-19T03:11:03.008Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-19T03:11:03.018Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-19T03:11:03.018Z"}
-{"level":"info","message":"Received SIGINT, shutting down gracefully...","timestamp":"2025-11-19T03:11:25.834Z"}
-{"level":"info","message":"Using Local Storage","timestamp":"2025-11-19T03:11:31.350Z"}
-{"environment":"development","httpPort":"8002","level":"info","message":"RTMP Server started successfully","rtmpPort":"1935","storageType":"local","timestamp":"2025-11-19T03:11:31.394Z"}
-{"level":"info","message":"Local storage directories initialized","timestamp":"2025-11-19T03:11:31.399Z"}
-{"level":"info","message":"Temp directory initialized: ./media/temp","timestamp":"2025-11-19T03:11:31.400Z"}
-{"level":"info","message":"[prePublish]","timestamp":"2025-11-19T03:11:36.279Z"}

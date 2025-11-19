@@ -1,0 +1,645 @@
+2025-11-19T09:13:30: (node:20108) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:30: 
+2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:30: (node:20107) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:30: 
+2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:30: (node:20129) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:30: 
+2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:30: (node:20135) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:30: 
+2025-11-19T09:13:30: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:30: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:39: (node:20249) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:39: 
+2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:39: (node:20243) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:39: 
+2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:39: (node:20265) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:39: 
+2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:39: (node:20272) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:39: 
+2025-11-19T09:13:39: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:39: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:39: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:42: (node:20314) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:42: 
+2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:42: (node:20313) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:42: 
+2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:42: (node:20342) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:42: 
+2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:42: (node:20335) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:42: 
+2025-11-19T09:13:42: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:42: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:42: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:46: (node:20364) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:46: 
+2025-11-19T09:13:46: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:46: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:46: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:46: (node:20363) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:46: 
+2025-11-19T09:13:46: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:46: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:46: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:47: (node:20385) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:47: 
+2025-11-19T09:13:47: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:47: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:47: (node:20392) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:47: 
+2025-11-19T09:13:47: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:47: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:49: (node:20420) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:49: 
+2025-11-19T09:13:49: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:49: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:49: (node:20419) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:49: 
+2025-11-19T09:13:49: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:49: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:49: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:50: (node:20441) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:50: 
+2025-11-19T09:13:50: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:50: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:50: (node:20448) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:50: 
+2025-11-19T09:13:50: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:50: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:53: (node:20469) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:53: 
+2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:53: (node:20470) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:53: 
+2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:53: (node:20491) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:53: 
+2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:53: (node:20498) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:53: 
+2025-11-19T09:13:53: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:53: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:56: (node:20531) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:56: 
+2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:56: (node:20525) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:56: 
+2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:56: (node:20547) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:56: 
+2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:56: (node:20558) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:56: 
+2025-11-19T09:13:56: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:56: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:59: (node:20575) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:59: 
+2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:59: (node:20581) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:59: 
+2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:59: (node:20597) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:59: 
+2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:13:59: (node:20608) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:13:59: 
+2025-11-19T09:13:59: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:13:59: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:13:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:02: (node:20631) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:02: 
+2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:02: (node:20637) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:02: 
+2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:02: (node:20653) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:02: 
+2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:02: (node:20664) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:02: 
+2025-11-19T09:14:02: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:02: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:05: (node:20682) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:05: 
+2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:05: (node:20681) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:05: 
+2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:05: (node:20703) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:05: 
+2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:05: (node:20714) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:05: 
+2025-11-19T09:14:05: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:05: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:08: (node:20744) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:08: 
+2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:08: (node:20750) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:08: 
+2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:08: (node:20766) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:08: 
+2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:08: (node:20777) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:08: 
+2025-11-19T09:14:08: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:08: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:11: (node:20858) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:11: 
+2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:11: (node:20852) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:11: 
+2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:11: (node:20874) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:11: 
+2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:11: (node:20885) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:11: 
+2025-11-19T09:14:11: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:11: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:14: (node:20954) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:14: 
+2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:14: (node:20955) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:14: 
+2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:14: (node:20976) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:14: 
+2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:14: (node:20987) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:14: 
+2025-11-19T09:14:14: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:14: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:14: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:17: (node:21023) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:17: 
+2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:17: (node:21022) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:17: 
+2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:17: (node:21044) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:17: 
+2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:17: (node:21055) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:17: 
+2025-11-19T09:14:17: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:17: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:17: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:21: (node:21112) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:21: 
+2025-11-19T09:14:21: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:21: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:21: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:21: (node:21111) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:21: 
+2025-11-19T09:14:21: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:21: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:21: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:21: (node:21133) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:21: 
+2025-11-19T09:14:21: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:21: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:21: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:22: (node:21144) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:22: 
+2025-11-19T09:14:22: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:22: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:22: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:24: (node:21162) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:24: 
+2025-11-19T09:14:24: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:24: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:24: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:24: (node:21161) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:24: 
+2025-11-19T09:14:24: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:24: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:24: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:25: (node:21183) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:25: 
+2025-11-19T09:14:25: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:25: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:25: (node:21194) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:25: 
+2025-11-19T09:14:25: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:25: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:25: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:27: (node:21217) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:27: 
+2025-11-19T09:14:27: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:27: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:27: (node:21220) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:27: 
+2025-11-19T09:14:27: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:27: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:27: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:28: (node:21239) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:28: 
+2025-11-19T09:14:28: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:28: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:28: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:28: (node:21250) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:28: 
+2025-11-19T09:14:28: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:28: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:28: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:30: (node:21275) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:30: 
+2025-11-19T09:14:30: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:30: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:30: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:31: (node:21281) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:31: 
+2025-11-19T09:14:31: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:31: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:31: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:31: (node:21297) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:31: 
+2025-11-19T09:14:31: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:31: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:31: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:31: (node:21308) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:31: 
+2025-11-19T09:14:31: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:31: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:31: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:34: (node:21596) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:34: 
+2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:34: (node:21589) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:34: 
+2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:34: (node:21611) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:34: 
+2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:34: (node:21622) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:34: 
+2025-11-19T09:14:34: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:34: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:34: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:37: (node:21671) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:37: 
+2025-11-19T09:14:37: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:37: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:37: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:14:37: (node:21678) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:14:37: 
+2025-11-19T09:14:37: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:14:37: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:14:37: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:38: (node:1739) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:38: 
+2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:38: (node:1726) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:38: 
+2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:38: (node:1730) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:38: 
+2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:38: (node:1733) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:38: 
+2025-11-19T09:19:38: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:38: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:38: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:41: (node:1822) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:41: 
+2025-11-19T09:19:41: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:41: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:41: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:41: (node:1821) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:41: 
+2025-11-19T09:19:41: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:41: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:41: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:44: (node:1844) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:44: 
+2025-11-19T09:19:44: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:44: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:44: (node:1843) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:44: 
+2025-11-19T09:19:44: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:44: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:44: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:47: (node:1866) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:47: 
+2025-11-19T09:19:47: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:47: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:47: (node:1865) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:47: 
+2025-11-19T09:19:47: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:47: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:47: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:50: (node:1894) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:50: 
+2025-11-19T09:19:50: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:50: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:50: (node:1887) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:50: 
+2025-11-19T09:19:50: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:50: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:50: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:53: (node:1909) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:53: 
+2025-11-19T09:19:53: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:53: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:53: (node:1916) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:53: 
+2025-11-19T09:19:53: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:53: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:56: (node:1931) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:56: 
+2025-11-19T09:19:56: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:56: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:56: (node:1938) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:56: 
+2025-11-19T09:19:56: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:56: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:59: (node:1953) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:59: 
+2025-11-19T09:19:59: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:59: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:19:59: (node:1960) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:19:59: 
+2025-11-19T09:19:59: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:19:59: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:19:59: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:02: (node:2008) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:02: 
+2025-11-19T09:20:02: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:02: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:02: (node:2015) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:02: 
+2025-11-19T09:20:02: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:02: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:02: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:05: (node:2036) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:05: 
+2025-11-19T09:20:05: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:05: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:05: (node:2043) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:05: 
+2025-11-19T09:20:05: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:05: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:05: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:08: (node:2094) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:08: 
+2025-11-19T09:20:08: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:08: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:08: (node:2101) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:08: 
+2025-11-19T09:20:08: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:08: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:11: (node:2119) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:11: 
+2025-11-19T09:20:11: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:11: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:20:11: (node:2126) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:20:11: 
+2025-11-19T09:20:11: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:20:11: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:20:11: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:34:54: (node:9115) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:34:54: 
+2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:34:54: (node:9121) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:34:54: 
+2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:34:54: (node:9114) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:34:54: 
+2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:34:54: (node:9127) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:34:54: 
+2025-11-19T09:34:54: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:34:54: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:34:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:34:57: (node:9218) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:34:57: 
+2025-11-19T09:34:57: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:34:57: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:34:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:34:57: (node:9225) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:34:57: 
+2025-11-19T09:34:57: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:34:57: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:34:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:34:57: (node:9232) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:34:57: 
+2025-11-19T09:34:57: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:34:57: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:34:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:00: (node:9273) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:00: 
+2025-11-19T09:35:00: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:00: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:00: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:00: (node:9266) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:00: 
+2025-11-19T09:35:00: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:00: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:00: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:00: (node:9280) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:00: 
+2025-11-19T09:35:00: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:00: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:00: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:03: (node:9305) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:03: 
+2025-11-19T09:35:03: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:03: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:03: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:03: (node:9312) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:03: 
+2025-11-19T09:35:03: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:03: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:03: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:03: (node:9319) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:03: 
+2025-11-19T09:35:03: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:03: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:03: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:06: (node:9400) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:06: 
+2025-11-19T09:35:06: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:06: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:06: (node:9406) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:06: 
+2025-11-19T09:35:06: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:06: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:06: (node:9414) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:06: 
+2025-11-19T09:35:06: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:06: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:06: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:09: (node:9505) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:09: 
+2025-11-19T09:35:09: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:09: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:09: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:09: (node:9512) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:09: 
+2025-11-19T09:35:09: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:09: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:09: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:09: (node:9519) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:09: 
+2025-11-19T09:35:09: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:09: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:09: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:12: (node:9628) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:12: 
+2025-11-19T09:35:12: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:12: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:12: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:12: (node:9635) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:12: 
+2025-11-19T09:35:12: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:12: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:12: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:12: (node:9642) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:12: 
+2025-11-19T09:35:12: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:12: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:12: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:35:20: (node:9782) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+2025-11-19T09:35:20: 
+2025-11-19T09:35:20: Please migrate your code to use AWS SDK for JavaScript (v3).
+2025-11-19T09:35:20: For more information, check the migration guide at https://a.co/7PzMCcy
+2025-11-19T09:35:20: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T10:06:38: TypeError: Cannot read properties of undefined (reading 'bytesWritten')
+2025-11-19T10:06:38:     at NodeFlvSession.stop (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/node-media-server/src/node_flv_session.js:94:57)
+2025-11-19T10:06:38:     at NodeFlvSession.onReqClose (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/node-media-server/src/node_flv_session.js:104:10)
+2025-11-19T10:06:38:     at WebSocket.emit (node:events:536:35)
+2025-11-19T10:06:38:     at WebSocket.emit (node:domain:489:12)
+2025-11-19T10:06:38:     at WebSocket.emitClose (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/ws/lib/websocket.js:272:10)
+2025-11-19T10:06:38:     at Socket.socketOnClose (/home/dylan/workspace/github.com/dylan/livekit-local/rtmp-server/node_modules/ws/lib/websocket.js:1341:15)
+2025-11-19T10:06:38:     at Socket.emit (node:events:524:28)
+2025-11-19T10:06:38:     at Socket.emit (node:domain:489:12)
+2025-11-19T10:06:38:     at TCP.<anonymous> (node:net:343:12)

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Multi Stream Tester (FLV / WS-FLV / HLS)</title>
+  </head>
+
+  <body>
+    <h2>Test Livestream (FLV / WebSocket-FLV / HLS)</h2>
+
+    <div>
+      <label>
+        STREAM NAME:
+        <input id="streamName" type="text" size="40" value="abc" />
+      </label>
+
+      <label>
+        PORT:
+        <input id="port" type="text" size="10" value="8002" />
+      </label>
+
+      <select id="mode">
+        <option value="flv">FLV (HTTP-FLV)</option>
+        <option value="wsflv">WS-FLV (WebSocket FLV)</option>
+        <option value="hls">HLS (m3u8)</option>
+      </select>
+
+      <button id="playBtn">Play</button>
+      <button id="stopBtn">Stop</button>
+    </div>
+
+    <br />
+
+    <video
+      id="videoElement"
+      controls
+      muted
+      autoplay
+      style="width: 640px; height: 360px; background: #000"
+    ></video>
+
+    <!-- flv.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flv.js/1.6.2/flv.min.js"></script>
+
+    <!-- hls.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.7/hls.min.js"></script>
+
+    <script>
+      let flvPlayer = null;
+      let hls = null;
+
+      function stopAll() {
+        if (flvPlayer) {
+          flvPlayer.pause();
+          flvPlayer.unload();
+          flvPlayer.detachMediaElement();
+          flvPlayer.destroy();
+          flvPlayer = null;
+        }
+
+        if (hls) {
+          hls.destroy();
+          hls = null;
+        }
+
+        const video = document.getElementById("videoElement");
+        video.src = "";
+      }
+
+      function buildURL() {
+        const stream = document.getElementById("streamName").value.trim();
+        const port = document.getElementById("port").value.trim();
+        const mode = document.getElementById("mode").value;
+
+        if (!stream) return "";
+
+        if (mode === "flv")
+          return `http://localhost:${port}/live/${stream}.flv`;
+
+        if (mode === "wsflv")
+          return `ws://localhost:${port}/live/${stream}.flv`;
+
+        if (mode === "hls")
+          return `http://localhost:${port}/live/${stream}/index.m3u8`;
+
+        return "";
+      }
+
+      function playStream() {
+        stopAll();
+
+        const url = buildURL();
+        const mode = document.getElementById("mode").value;
+        const video = document.getElementById("videoElement");
+
+        console.log("Play URL:", url);
+
+        if (mode === "hls") {
+          if (video.canPlayType("application/vnd.apple.mpegurl")) {
+            video.src = url;
+          } else {
+            hls = new Hls({
+              liveSyncDuration: 1,
+              maxLiveSyncPlaybackRate: 1.5,
+            });
+            hls.loadSource(url);
+            hls.attachMedia(video);
+          }
+          return;
+        }
+
+        // FLV / WS-FLV (same FLV container)
+        if (!flvjs.isSupported()) {
+          alert("flv.js not supported");
+          return;
+        }
+
+        flvPlayer = flvjs.createPlayer({
+          type: "flv",
+          url: url,
+          isLive: true,
+          hasAudio: true,
+          hasVideo: true,
+        });
+
+        flvPlayer.attachMediaElement(video);
+        flvPlayer.load();
+        flvPlayer.play().catch((err) => console.error(err));
+      }
+
+      document.getElementById("playBtn").addEventListener("click", playStream);
+      document.getElementById("stopBtn").addEventListener("click", stopAll);
+    </script>
+  </body>
+</html>

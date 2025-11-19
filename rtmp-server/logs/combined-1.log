@@ -1,0 +1,436 @@
+2025-11-19T09:22:27: 2025-11-19T02:22:27.856Z [[32minfo[39m]: Using Local Storage 
+2025-11-19T09:22:27: 11/19/2025 09:22:27 3867 [INFO] Node Media Server v2.6.6
+2025-11-19T09:22:27: 11/19/2025 09:22:27 3867 [ERROR] Node Media Trans Server startup failed. ffmpeg:/usr/local/bin/ffmpeg cannot be executed.
+2025-11-19T09:22:27: 2025-11-19T02:22:27.893Z [[32minfo[39m]: RTMP Server started successfully {}
+2025-11-19T09:22:27: ====================================
+2025-11-19T09:22:27: 🚀 RTMP Server Started Successfully
+2025-11-19T09:22:27: ====================================
+2025-11-19T09:22:27: 📺 RTMP URL: rtmp://localhost:undefined/live
+2025-11-19T09:22:27: 🌐 HTTP Server: http://localhost:undefined
+2025-11-19T09:22:27: 📊 Admin Panel: http://localhost:undefined/admin
+2025-11-19T09:22:27: 🌐 Fastify Server: http://localhost:undefined
+2025-11-19T09:22:27: 💾 Storage: undefined
+2025-11-19T09:22:27: 🌍 Environment: undefined
+2025-11-19T09:22:27: ====================================
+2025-11-19T09:22:27: (node:3867) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the migration guide at https://a.co/7PzMCcy
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:22:27: 11/19/2025 09:22:27 3867 [INFO] Node Media Rtmp Server started on port: 1935
+2025-11-19T09:22:27: 11/19/2025 09:22:27 3867 [INFO] Node Media Http Server started on port: 8002
+2025-11-19T09:22:27: 11/19/2025 09:22:27 3867 [INFO] Node Media WebSocket Server started on port: 8002
+2025-11-19T09:22:27: 2025-11-19T02:22:27.898Z [[32minfo[39m]: Local storage directories initialized 
+2025-11-19T09:22:27: 2025-11-19T02:22:27.898Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
+2025-11-19T09:22:28: 11/19/2025 09:22:28 3867 [INFO] There is a new version 4.1.0 that can be updated
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=GZEWT4JY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=GZEWT4JY streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=IDCVW2LB ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=IDCVW2LB streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=FMMK5QU8 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=FMMK5QU8 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=Y8D4AFMY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=Y8D4AFMY streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=B0CZNV4D ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=B0CZNV4D streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=8OMPKQYY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=8OMPKQYY streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=VEYSVUSY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=VEYSVUSY streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=T1NR6KOK ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=T1NR6KOK streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=777MFSW6 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=777MFSW6 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=QMVJMUQ9 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=QMVJMUQ9 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=CKEYIWRJ ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=CKEYIWRJ streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=NKLHO3JF ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=NKLHO3JF streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=E6YAMF4N ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=E6YAMF4N streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=2WCPTV8G ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=2WCPTV8G streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=O12TD19E ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=O12TD19E streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=NWYFM01R ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=NWYFM01R streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=JHEAMLRY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=JHEAMLRY streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=O1EBTYBP ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=O1EBTYBP streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=YUCLW9KH ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=YUCLW9KH streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=KZMTBT86 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=KZMTBT86 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=P20KJ7SH ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=P20KJ7SH streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=0D3SWWUK ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=0D3SWWUK streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=V2R8RT2D ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=V2R8RT2D streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=WTZZ6KUW ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=WTZZ6KUW streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=7RRBKVPU ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=7RRBKVPU streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=FKNB6SDA ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=FKNB6SDA streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=EGD0JNA8 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=EGD0JNA8 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=YLMHQZIF ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=YLMHQZIF streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=I1L1CZUS ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=I1L1CZUS streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=7UPUE4WN ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=7UPUE4WN streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=Z04VO5H1 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=Z04VO5H1 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=S3VDVHDH ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=S3VDVHDH streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=LE83I3KN ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=LE83I3KN streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=HAK0EYJO ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=HAK0EYJO streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=W697BRJR ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=W697BRJR streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=A4J25SOF ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=A4J25SOF streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=TBBBFTDV ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=TBBBFTDV streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=HYG9PERU ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=HYG9PERU streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=8NSBK7NY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=8NSBK7NY streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=4F0IP4O1 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=4F0IP4O1 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=LMCQKG8T ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=LMCQKG8T streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=RAHO3EL9 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=RAHO3EL9 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=MYGE9UBQ ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=MYGE9UBQ streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=BEL1T1NT ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=BEL1T1NT streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=43SAN7MU ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=43SAN7MU streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=QHNCC516 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=QHNCC516 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=HJ2Y717I ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=HJ2Y717I streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=JCW973JH ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=JCW973JH streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=U0K9WBSM ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=U0K9WBSM streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=4CLYGIZA ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=4CLYGIZA streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=LJ5PI6Q9 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=LJ5PI6Q9 streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=C2GBKBHQ ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=C2GBKBHQ streamPath=/live/abc 
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv connect] id=S2EKWW24 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:24:28: 11/19/2025 09:24:28 3867 [INFO] [http-flv play] Stream not found. id=S2EKWW24 streamPath=/live/abc 
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=S2EKWW24 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=S2EKWW24
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=GZEWT4JY streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=GZEWT4JY
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=IDCVW2LB streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=IDCVW2LB
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=FMMK5QU8 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=FMMK5QU8
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=Y8D4AFMY streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=Y8D4AFMY
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=B0CZNV4D streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=B0CZNV4D
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=8OMPKQYY streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=8OMPKQYY
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=VEYSVUSY streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=VEYSVUSY
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=T1NR6KOK streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=T1NR6KOK
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=777MFSW6 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=777MFSW6
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=QMVJMUQ9 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=QMVJMUQ9
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=CKEYIWRJ streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=CKEYIWRJ
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=NKLHO3JF streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=NKLHO3JF
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=E6YAMF4N streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=E6YAMF4N
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=2WCPTV8G streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=2WCPTV8G
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=O12TD19E streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=O12TD19E
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=NWYFM01R streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=NWYFM01R
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=JHEAMLRY streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=JHEAMLRY
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=O1EBTYBP streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=O1EBTYBP
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=YUCLW9KH streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=YUCLW9KH
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=KZMTBT86 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=KZMTBT86
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=P20KJ7SH streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=P20KJ7SH
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=0D3SWWUK streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=0D3SWWUK
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=V2R8RT2D streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=V2R8RT2D
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=WTZZ6KUW streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=WTZZ6KUW
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=7RRBKVPU streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=7RRBKVPU
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=FKNB6SDA streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=FKNB6SDA
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=EGD0JNA8 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=EGD0JNA8
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=YLMHQZIF streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=YLMHQZIF
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=I1L1CZUS streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=I1L1CZUS
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=7UPUE4WN streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=7UPUE4WN
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=Z04VO5H1 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=Z04VO5H1
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=S3VDVHDH streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=S3VDVHDH
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=LE83I3KN streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=LE83I3KN
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=HAK0EYJO streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=HAK0EYJO
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=W697BRJR streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=W697BRJR
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=A4J25SOF streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=A4J25SOF
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=TBBBFTDV streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=TBBBFTDV
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=HYG9PERU streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=HYG9PERU
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=8NSBK7NY streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=8NSBK7NY
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=4F0IP4O1 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=4F0IP4O1
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=LMCQKG8T streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=LMCQKG8T
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=RAHO3EL9 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=RAHO3EL9
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=MYGE9UBQ streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=MYGE9UBQ
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=BEL1T1NT streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=BEL1T1NT
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=43SAN7MU streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=43SAN7MU
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=QHNCC516 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=QHNCC516
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=HJ2Y717I streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=HJ2Y717I
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=JCW973JH streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=JCW973JH
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=U0K9WBSM streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=U0K9WBSM
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=4CLYGIZA streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=4CLYGIZA
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=LJ5PI6Q9 streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=LJ5PI6Q9
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv play] Close stream. id=C2GBKBHQ streamPath=/live/abc
+2025-11-19T09:24:59: 11/19/2025 09:24:59 3867 [INFO] [http-flv disconnect] id=C2GBKBHQ
+2025-11-19T09:27:04: 2025-11-19T02:27:04.825Z [[32minfo[39m]: Received SIGINT, shutting down gracefully... 
+2025-11-19T09:27:13: 2025-11-19T02:27:13.413Z [[32minfo[39m]: Using Local Storage 
+2025-11-19T09:27:13: 11/19/2025 09:27:13 6562 [INFO] Node Media Server v2.6.6
+2025-11-19T09:27:13: 11/19/2025 09:27:13 6562 [ERROR] Node Media Trans Server startup failed. ffmpeg:/usr/local/bin/ffmpeg cannot be executed.
+2025-11-19T09:27:13: 2025-11-19T02:27:13.448Z [[32minfo[39m]: RTMP Server started successfully {}
+2025-11-19T09:27:13: ====================================
+2025-11-19T09:27:13: 🚀 RTMP Server Started Successfully
+2025-11-19T09:27:13: ====================================
+2025-11-19T09:27:13: 📺 RTMP URL: rtmp://localhost:undefined/live
+2025-11-19T09:27:13: 🌐 HTTP Server: http://localhost:undefined
+2025-11-19T09:27:13: 📊 Admin Panel: http://localhost:undefined/admin
+2025-11-19T09:27:13: 🌐 Fastify Server: http://localhost:undefined
+2025-11-19T09:27:13: 💾 Storage: undefined
+2025-11-19T09:27:13: 🌍 Environment: undefined
+2025-11-19T09:27:13: ====================================
+2025-11-19T09:27:13: (node:6562) NOTE: We are formalizing our plans to enter AWS SDK for JavaScript (v2) into maintenance mode in 2023.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the migration guide at https://a.co/7PzMCcy
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-11-19T09:27:13: 11/19/2025 09:27:13 6562 [INFO] Node Media Rtmp Server started on port: 1935
+2025-11-19T09:27:13: 11/19/2025 09:27:13 6562 [INFO] Node Media Http Server started on port: 8002
+2025-11-19T09:27:13: 11/19/2025 09:27:13 6562 [INFO] Node Media WebSocket Server started on port: 8002
+2025-11-19T09:27:13: 2025-11-19T02:27:13.452Z [[32minfo[39m]: Local storage directories initialized 
+2025-11-19T09:27:13: 2025-11-19T02:27:13.452Z [[32minfo[39m]: Temp directory initialized: ./temp_media 
+2025-11-19T09:27:14: 11/19/2025 09:27:14 6562 [INFO] There is a new version 4.1.0 that can be updated
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=4P2C7VN0 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=4P2C7VN0 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=N8NAZ9NP ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=N8NAZ9NP streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=5TH25NUJ ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=5TH25NUJ streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=5TBAJ0W4 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=5TBAJ0W4 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=TLMJAGGU ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=TLMJAGGU streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=6KGKIKYJ ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=6KGKIKYJ streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=R2M7PAAW ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=R2M7PAAW streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=EL748C65 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=EL748C65 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=7US4TAN7 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=7US4TAN7 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=MNSN1ZLJ ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=MNSN1ZLJ streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=FF9RK0SF ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=FF9RK0SF streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=H7E8F1CK ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=H7E8F1CK streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=JCC0G5UT ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=JCC0G5UT streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=I5SLV866 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=I5SLV866 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=DW7CYPVS ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=DW7CYPVS streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=TMJ2NDEE ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=TMJ2NDEE streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=LDU83U6M ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=LDU83U6M streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=2EK1Q6G9 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=2EK1Q6G9 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=7E4Z76N9 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=7E4Z76N9 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=E4CPHFU6 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=E4CPHFU6 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=5KB8L23S ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=5KB8L23S streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=EQVNQ2VQ ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=EQVNQ2VQ streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=NDENKBBW ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=NDENKBBW streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=IKVR9QWK ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=IKVR9QWK streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=0NC06JWH ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=0NC06JWH streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=FTB29TC6 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=FTB29TC6 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=WP9H24W1 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=WP9H24W1 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=6C6SWQVG ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=6C6SWQVG streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=V4BKVJEY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=V4BKVJEY streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=OYJU2ZMM ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=OYJU2ZMM streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=4C8KFQ39 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=4C8KFQ39 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=ISL1Z4V1 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=ISL1Z4V1 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=PKN2QF6R ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=PKN2QF6R streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=NLCTHFKV ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=NLCTHFKV streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=8UZ1PRQG ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=8UZ1PRQG streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=96K0UQCM ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=96K0UQCM streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=LC1Z32Z7 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=LC1Z32Z7 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=I9ZHQPOS ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=I9ZHQPOS streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=7PZS2YVY ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=7PZS2YVY streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=B0C5J4CT ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=B0C5J4CT streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=8H7QA4E6 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=8H7QA4E6 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=OQJS0MN6 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=OQJS0MN6 streamPath=/live/abc 
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv connect] id=7R5CUY64 ip=::ffff:127.0.0.1 args={}
+2025-11-19T09:28:07: 11/19/2025 09:28:07 6562 [INFO] [http-flv play] Stream not found. id=7R5CUY64 streamPath=/live/abc 
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=8H7QA4E6 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=8H7QA4E6
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=OQJS0MN6 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=OQJS0MN6
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=7R5CUY64 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=7R5CUY64
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=4P2C7VN0 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=4P2C7VN0
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=N8NAZ9NP streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=N8NAZ9NP
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=5TH25NUJ streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=5TH25NUJ
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=5TBAJ0W4 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=5TBAJ0W4
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=TLMJAGGU streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=TLMJAGGU
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=6KGKIKYJ streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=6KGKIKYJ
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=R2M7PAAW streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=R2M7PAAW
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=EL748C65 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=EL748C65
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=7US4TAN7 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=7US4TAN7
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=MNSN1ZLJ streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=MNSN1ZLJ
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=FF9RK0SF streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=FF9RK0SF
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=H7E8F1CK streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=H7E8F1CK
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=JCC0G5UT streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=JCC0G5UT
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=I5SLV866 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=I5SLV866
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=DW7CYPVS streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=DW7CYPVS
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=TMJ2NDEE streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=TMJ2NDEE
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=LDU83U6M streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=LDU83U6M
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=2EK1Q6G9 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=2EK1Q6G9
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=7E4Z76N9 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=7E4Z76N9
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=E4CPHFU6 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=E4CPHFU6
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=5KB8L23S streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=5KB8L23S
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=EQVNQ2VQ streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=EQVNQ2VQ
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=NDENKBBW streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=NDENKBBW
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=IKVR9QWK streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=IKVR9QWK
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=0NC06JWH streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=0NC06JWH
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=FTB29TC6 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=FTB29TC6
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=WP9H24W1 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=WP9H24W1
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=6C6SWQVG streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=6C6SWQVG
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=V4BKVJEY streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=V4BKVJEY
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=OYJU2ZMM streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=OYJU2ZMM
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=4C8KFQ39 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=4C8KFQ39
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=ISL1Z4V1 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=ISL1Z4V1
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=PKN2QF6R streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=PKN2QF6R
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=NLCTHFKV streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=NLCTHFKV
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=8UZ1PRQG streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=8UZ1PRQG
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=96K0UQCM streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=96K0UQCM
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=LC1Z32Z7 streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=LC1Z32Z7
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=I9ZHQPOS streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=I9ZHQPOS
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=7PZS2YVY streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=7PZS2YVY
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv play] Close stream. id=B0C5J4CT streamPath=/live/abc
+2025-11-19T09:29:17: 11/19/2025 09:29:17 6562 [INFO] [http-flv disconnect] id=B0C5J4CT
+2025-11-19T09:32:09: 2025-11-19T02:32:09.648Z [[32minfo[39m]: Received SIGINT, shutting down gracefully... 

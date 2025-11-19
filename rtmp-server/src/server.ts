@@ -47,6 +47,7 @@ export default class RTMPServer {
         port: parseInt(process.env.HTTP_PORT || "8002"),
         allow_origin: "*",
         mediaroot: this.tempPath,
+        ws_flv: true,
       },
       auth: {
         api: true,

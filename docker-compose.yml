@@ -48,9 +48,9 @@ services:
     cap_add:
       - CAP_SYS_ADMIN
 
-  # backend:
-  #   network_mode: host
-  #   build: ./backend
-  #   container_name: backend-server
-  #   restart: always
-  #   env_file: ./backend/.env
+  backend:
+    network_mode: host
+    build: ./backend
+    container_name: backend-server
+    restart: always
+    env_file: ./backend/.env
